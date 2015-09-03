@@ -1,7 +1,7 @@
 # fsg-cli
-Command line interface for the [Fujitsu Support Gateway / AutoImmuneSystems® (AIS) Connect Service](Fujitsu Support Gateway / AIS Connect)
+[Fujitsu Support Gateway / AutoImmuneSystems® (AIS) Connect Service](Fujitsu Support Gateway / AIS Connect) command line interface written in Python.
 
-This script written in Python makes it easy to interact with one or more FSG/AIS appliances without using a webbrowser.
+This script makes it easy to interact with one or more FSG/AIS appliances without using a webbrowser.
 
 ##Requirements
 

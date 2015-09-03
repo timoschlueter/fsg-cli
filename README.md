@@ -32,7 +32,7 @@ Here the json-result:
 ### Show asset policy
 To see the current policy of the asset, use the following command:
 ```bash
-/usr/bin/fsg_cli.py -H ais.mydomain -U admin -P admin show -A GFEDCBA123456 -F json
+/usr/bin/fsg_cli.py -H ais.mydomain -U username -P password show -A GFEDCBA123456 -F json
 ```
 The result can be either raw, json or csv.
 Here the json-result:
